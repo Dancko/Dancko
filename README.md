@@ -27,7 +27,7 @@ I am a Django web developer who is constant chase of broadening horizons in deve
                   ### Socials
                   
                   
-                <p align="left">
+ <p align="left">
                           
                       <a href="https://www.github.com/Dancko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
