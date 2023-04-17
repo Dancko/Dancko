@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Backend Developer
 ------------------------
 
-I am a Django web developer who is in constant chase of broadening horizons in developing programming skills. Being carried away by the web technologies, I am constantly feel utter need for exploring new aspects of web services and best practices in developing and maintaining users' communications with the servers and databases.
+I am a Django web developer who is in constant chase of broadening horizons in developing programming skills. Being carried away by the web technologies, I always feel the utter need for exploring new aspects of web services and best practices in developing and maintaining users' communications with the servers and databases.
 
 *   🌍  I'm based in Thailand
 *   ✉️  You can contact me at [dchestnyh21@gmail.com](mailto:dchestnyh21@gmail.com)
